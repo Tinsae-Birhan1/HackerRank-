@@ -5,6 +5,8 @@ else:
 	val1=m/a+1 
 
 if n%a==0:
+	val2=n/a
+else:
 	val2=n/a+1
 
 
